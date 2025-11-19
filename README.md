@@ -1,2 +1,3 @@
 # Brain-Tumor-Dashboard
-This dashboard analyzes 20,000 brain tumor patient records by gender, tumor type, symptoms, tumor location, treatments, and medical history. It highlights key patterns and trends to support improved diagnosis and treatment planning.
+# Project Objective 
+To analyze 20,000 brain tumor patient records to identify patterns across demographics, tumor types, symptoms, imaging results, and treatments. The goal is to uncover risk indicators, support early diagnosis, and improve treatment planning through data-driven clinical insights.
